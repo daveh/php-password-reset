@@ -1,5 +1,5 @@
 # PHP Password Reset by Email
 
-Source code to accompany this video: 
+Source code to accompany this video: https://youtu.be/R9bfts9ZFjs
 
-[![Signup and Login with PHP and MySQL](https://img.youtube.com/vi/5L9UhOnuos0/0.jpg)](https://youtu.be/5L9UhOnuos0)
+[![PHP Password Reset by Email](https://img.youtube.com/vi/R9bfts9ZFjs/0.jpg)](https://youtu.be/R9bfts9ZFjs)
